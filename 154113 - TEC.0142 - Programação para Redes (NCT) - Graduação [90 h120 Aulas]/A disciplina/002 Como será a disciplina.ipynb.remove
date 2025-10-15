@@ -1,0 +1,55 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "OAsl-JkODCPS"
+      },
+      "source": [
+        "# Como será organizada a disciplina?\n",
+        "\n",
+        "Mininistrada por mim: **Galileu** Batista e (ocasionalmente) pelo professor **Charles** Freitas.\n",
+        "\n",
+        "# O que, de fato, iremos estudar?\n",
+        "\n",
+        "A programação para duas (ou mais) máquinas se comunicarem. Usaremos a linguagem Python (melhor seria usarmos a linguagem C), mas Python tem bons wrapers para a maioria das bibliotecas de comunicação do TCP/IP\n",
+        "(ou protocolos próprios).\n",
+        "\n",
+        "# A organização dos trabalhos ?\n",
+        "\n",
+        "Na primeira unidade trabalharemos com desolvimento de clientes e\n",
+        "servidores TCP/IP. Na segunda unidade, será desenvolvido um projeto\n",
+        "envolvendo TCP/IP em uma aplicação real (Servidor proxy, sniffer completo, serviço de chat, bot, ... sugestões são bem-vindas).\n",
+        "\n",
+        "# A metodologia?\n",
+        "\n",
+        "Duas aulas presenciais semanais. Muitas, muitas práticas. Muitas atividades. Usaremos o google sala de aula, quando necessário. Aproveite e cadastre-se na disciplina agora.\n",
+        "\n",
+        "# O que é necessário?\n",
+        "\n",
+        "Saber programar (em Python). Ter boas noções de TCP/IP. Revisaremos esses dois elementos.  \n",
+        "\n",
+        "# A Bibliografia\n",
+        "\n",
+        "RHODES, Brandon e GOERZEN, John, **Programação de Redes com Python**, Novatec, 2018.\n",
+        "\n",
+        "STEVENS,  Richard  W.,  **Programação  de  rede  UNIX  :  API  para  soquetes  de  rede**,  Bookman, 2005.\n",
+        "\n",
+        "NEVES, Julio C., **Programação em Shell Linux**, 8a edição, BrasPort, 2010.\n",
+        "\n",
+        "ALBIN, Carl; VOSSEN, JP e NEWHAM, Cameron, **bash CookBook**, O´Reilly, 2007.  \n"
+      ]
+    }
+  ]
+}

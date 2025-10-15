@@ -1,0 +1,19 @@
+Aula 00 - Ementa
+
+Conteúdo:
+01. Noções Básicas de uso do Shell
+02. Hierarquia Padrão de Diretórios em Sistemas Linux
+03. Manipulação de Arquivos
+04. Introdução ao editor de textos vi
+05. Permissões de arquivos
+06. Utilitários de Uso Geral
+07. Compactação de Arquivos
+08. Administração de Usuários
+09. Gerenciamento de Pacotes Utilizando DEB
+10. Gerenciamento de Pacotes Utilizando RPM
+11. Instalação de programas a partir do código fonte
+12. Configurações básicas de rede
+13. Obtendo informações do Hardware
+14. Introdução aos Shell Scripts
+15. Agendamento de Tarefas
+16. Acesso a máquinas remotas com SSH

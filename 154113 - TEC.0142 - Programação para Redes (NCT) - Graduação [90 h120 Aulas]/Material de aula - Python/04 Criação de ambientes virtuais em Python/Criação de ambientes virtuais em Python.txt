@@ -1,0 +1,3 @@
+Num ambiente em que não se pode mudar o python instalado, é possível criar um ambiente virtual em que se herda uma instalação base e se pode fazer customizações.
+
+https://colab.research.google.com/drive/1G7DmObDbg-W7Z66XhlIo48tL2NPo10xU?ouid=115690739124966762152&usp=classroom_web&authuser=0

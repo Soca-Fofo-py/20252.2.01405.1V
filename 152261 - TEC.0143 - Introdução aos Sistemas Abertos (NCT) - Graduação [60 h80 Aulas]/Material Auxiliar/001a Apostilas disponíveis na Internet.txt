@@ -1,0 +1,10 @@
+1. Linux Essentials versão 1.6 em Português: O certificado Linux Essentials é uma excelente maneira de mostrar aos recrutadores que você dispõe dos conhecimentos fundamentais necessários para seu próximo emprego ou promoção. Ele também representa um excelente ponto de partida para quem deseja seguir o programa LPIC Professional Certification para Administradores de Sistema Linux (https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-pt.pdf).
+
+2. LPIC-1 Exam versão 5.0 em Português - LPIC-1 é a primeira certificação no programa de certificação profissional Linux multinível da LPI. O LPIC-1 validará a capacidade do candidato de realizar tarefas de manutenção na linha de comando, instalar e configurar um computador executando Linux e configurar a rede básica. (https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-pt.pdf)
+
+3. Apostila Introducao ao Shell Script - Aurélio Marinho Jargas (https://aurelio.net/shell/apostila-introducao-shell.pdf)
+
+
+https://learning.lpi.org/pt/learning-materials/010-160/?authuser=0
+
+https://learning.lpi.org/pt/learning-materials/101-500/?authuser=0

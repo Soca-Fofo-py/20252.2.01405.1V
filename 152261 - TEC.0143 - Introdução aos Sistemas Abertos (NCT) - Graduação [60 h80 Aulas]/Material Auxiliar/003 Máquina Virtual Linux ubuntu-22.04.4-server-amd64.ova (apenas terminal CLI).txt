@@ -1,0 +1,6 @@
+Máquina Virtual Linux ubuntu-22.04.4-server-amd64.ova (apenas terminal CLI)
+
+Ubuntu 22.04.4-server: https://drive.google.com/file/d/1tCRAUWr65DHLLwBq73a1wQsgKhC2l__Q/view?usp=sharing
+Ao baixar a máquina virtual acima, no VirtualBox, clique no menu "Arquivo" => "Importar Appliance" e selecione o arquivo que você baixou. Informações da máquina Linux:
+Usuário: isa
+Senha: isa

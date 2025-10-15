@@ -1,0 +1,6 @@
+Em anexo, o Simulador de Redes Packet Tracer da CISCO nas versões 8.2.0 E 8.2.1.
+
+
+Deveremos instalar em nossos computadores particulares e utilizar a versão compatível com a instada em nossos laboratórios
+
+https://www.youtube.com/watch?v=fTFzAZVV-ag&authuser=0

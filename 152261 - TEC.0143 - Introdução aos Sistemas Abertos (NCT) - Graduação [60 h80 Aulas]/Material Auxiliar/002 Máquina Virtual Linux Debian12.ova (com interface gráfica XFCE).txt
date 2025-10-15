@@ -1,0 +1,6 @@
+Máquina Virtual Linux: Debian12.ova (com interface gráfica XFCE)
+
+Debian 12: https://drive.google.com/file/d/1w0S_nndKbX5fT4uEwTO_AC0OeixoDlNf/view?usp=sharing
+Ao baixar a máquina virtual acima, no VirtualBox, clique no menu "Arquivo" => "Importar Appliance" e selecione o arquivo que você baixou. Informações da máquina Linux:
+Usuário: sor
+Senha: sor

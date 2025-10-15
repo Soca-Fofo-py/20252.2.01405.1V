@@ -1,0 +1,8 @@
+WSL - Windows Subsystem for Linux
+
+No cmd do Windows, faça: wsl --install Debian
+https://learn.microsoft.com/pt-br/windows/wsl/basic-commands
+
+https://blog.4linux.com.br/usando-linux-no-windows-wsl/?authuser=0#:~:text=Primeiro%20passo%20%C3%A9%20ir%20em,realizar%20a%20reinicializa%C3%A7%C3%A3o%20do%20sistema.
+
+https://learn.microsoft.com/pt-br/windows/wsl/basic-commands?authuser=0

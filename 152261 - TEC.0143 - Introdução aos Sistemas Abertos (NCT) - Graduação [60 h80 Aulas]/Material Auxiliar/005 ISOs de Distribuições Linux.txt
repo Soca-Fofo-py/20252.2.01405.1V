@@ -1,0 +1,3 @@
+ISOs de Distribuições Linux
+
+Existem várias disponíveis na Internet. Vamos "focar" em distros Debian (https://www.debian.org/), ou baseadas nela,

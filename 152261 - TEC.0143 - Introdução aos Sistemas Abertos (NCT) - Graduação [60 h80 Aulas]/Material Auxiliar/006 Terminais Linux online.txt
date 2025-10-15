@@ -1,0 +1,7 @@
+Terminais Linux online 
+
+https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192&authuser=0
+
+https://copy.sh/v86/?profile=linux26&authuser=0
+
+https://play.google.com/store/apps/details?id=com.termux&authuser=0
